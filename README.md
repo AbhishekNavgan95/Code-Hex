@@ -37,4 +37,4 @@ This project replicates a real-world Ed-Tech website structure, featuring multip
 ## Learnings
 This project provided valuable insights into React routers, creating protected routes, understanding React components, and implementing controlled components for form handling and validation. Additionally, it introduced me to useful plugins like React-hot-toasts and react-icons.
 
-Happy coding!
+Happy coding! <3...
